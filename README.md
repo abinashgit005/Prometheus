@@ -12,4 +12,7 @@ A command-line utility tool used to verify configuration of Prometheus.
 Prometheus uses PromQL, a very powerfull Query language, which allows user to select and aggregate data.
 
 # Grafana
-Grafana is a Open-Source Visualization tool mostly used Prometheus.
+Grafana is a Open-Source Visualization tool mostly used Prometheus. It provides various Dashboards, Charts, Graphs, Alerts for data sources.
+
+Grafana allows us to query, Visualize, Explore metrics and set alerts for the data source which can be a system, server, nodes cluster etc.
+
